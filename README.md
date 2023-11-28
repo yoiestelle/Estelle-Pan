@@ -1,1 +1,1 @@
-# Time Series study in attitude towards homosexuality 
+# Time Series Analysis of Social Acceptance Toward Homosexuality

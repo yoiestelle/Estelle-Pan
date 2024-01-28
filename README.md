@@ -1,6 +1,6 @@
 # Time Series Analysis of Social Acceptance Toward Homosexuality
 
-This project aims to analyze the trends in attitudes towards sexual relations between adults of the same sex over time, while exploring how age, gender, and educational levels are correlated with these attitudes.
+Using panel data from GSS, this project analyzes the trends in attitudes towards sexual relations between adults of the same sex over time, while exploring how age, gender, and educational levels are correlated with these attitudes.
 
 The variables I have selected for this analysis are: "homosex," "year," "age," "sex," and "educ."
 
